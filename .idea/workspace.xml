@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00c5f9d6-44ef-48f9-a084-4e15cfef9357" name="Changes" comment="Product Class implemented">
+    <list default="true" id="00c5f9d6-44ef-48f9-a084-4e15cfef9357" name="Changes" comment="Order Class implemented">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/model/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/OrderRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/OrderRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/ProductRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/ProductRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Service.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +52,20 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Shop-Service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662892540299</updated>
-      <workItem from="1662892541495" duration="933000" />
+      <workItem from="1662892541495" duration="9421000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Project">
       <created>1662892579596</created>
@@ -78,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662893458841</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Order Class implemented">
+      <created>1662893592878</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662893592878</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +137,7 @@
     <MESSAGE value="Initial Project" />
     <MESSAGE value="Initial files" />
     <MESSAGE value="Product Class implemented" />
-    <option name="LAST_COMMIT_MESSAGE" value="Product Class implemented" />
+    <MESSAGE value="Order Class implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="Order Class implemented" />
   </component>
 </project>
